@@ -3,7 +3,7 @@
 내용에 감동을 했거나, 소름이 돋은 글에 대한 모음 입니다.
 
 ## 경험
-* [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://techblog.gccompany.co.kr/마이크로서비스-그-단어의-역사-3cce0133312)
+* [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking/)
 
 ## 스토리
 * [마이크로서비스, 그 단어의 역사](https://techblog.gccompany.co.kr/마이크로서비스-그-단어의-역사-3cce0133312)
