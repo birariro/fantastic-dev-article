@@ -22,11 +22,12 @@
 ## 데이터베이스
 * [MVCC(Multi Version Concurrency Control) 알아보기](https://medium.com/monday-9-pm/mvcc-multi-version-concurrency-control-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e4102cd97e59)(한국어/글)
 
+
 ## 웹 & 서버
 * [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest의-representation이란-무엇인가/)(한글/글)
 * [Spring MVC Application Server에 HTTP Request를 보내면 어떤 일이 일어날까?](https://monday9pm.com/spring-mvc에-http-request를-보내면-어떤-일이-일어날까-80467f8bc486)(한글/글)
 * [소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것](https://medium.com/rate-labs/소프트웨어-엔지니어가-알아야-할-로그에-대한-모든-것-11513af8b998)(한글/글)
-
+* [검색 엔진은 어떻게 작동하는가](https://xo.dev/articles/how-search-engine-works)(한글/글)
 
 ## 에자일
 * [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/#more)(한글/글)
