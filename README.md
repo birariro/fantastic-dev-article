@@ -31,3 +31,9 @@
 
 ## 에자일
 * [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/#more)(한글/글)
+
+
+
+## 최적화
+* [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁](https://tech.kakaopay.com/post/spring-batch-performance/)
+  
