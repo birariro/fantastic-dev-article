@@ -20,7 +20,7 @@
 * [클린 아키텍처 애매한 부분 정해 드립니다](https://www.youtube.com/watch?v=g6Tg6_qpIVc)(한글/영상)
 
 ## 데이터베이스
-* [MVCC(Multi Version Concurrency Control) 알아보기](https://medium.com/monday-9-pm/mvcc-multi-version-concurrency-control-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e4102cd97e59)(한국어/글)
+* [MVCC(Multi Version Concurrency Control) 알아보기](https://medium.com/monday-9-pm/mvcc-multi-version-concurrency-control-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e4102cd97e59)(한글/글)
 
 
 ## 웹 & 서버
@@ -32,8 +32,9 @@
 ## 에자일
 * [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/#more)(한글/글)
 
-
+## 테스트
+* [JpaRepository를 상속하지 않은 이유](https://www.youtube.com/watch?feature=shared&v=MMH_ht8pf8U)(한글/영상)
 
 ## 최적화
-* [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁](https://tech.kakaopay.com/post/spring-batch-performance/)
+* [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁](https://tech.kakaopay.com/post/spring-batch-performance/)(한글/글)
   
