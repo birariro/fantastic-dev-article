@@ -14,6 +14,7 @@
 * [자바스크립트는 왜 프로토타입을 선택했을까](https://medium.com/@limsungmook/자바스크립트는-왜-프로토타입을-선택했을까-997f985adb42)(한글/글)
 * [Mock 의 탄생 스토리](http://www.mockobjects.com/2009/09/brief-history-of-mock-objects.html)(영문/글)
 * [JUnit의 테스트 메소드는 왜 public이어야 할까요?](https://groups.google.com/g/ksug/c/xpJpy8SCrEE?pli=1)(한글/글)
+* [openSSL](https://coolspeed.wordpress.com/2015/02/16/unseeable_comrade_in_arms/)(한글/글)
 
 
 ## 아키텍쳐
