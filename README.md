@@ -2,7 +2,7 @@
 
 깨달음을 얻거나 감동을 했거나 <br/>
 소름이 돋거나 눈물이 났던  <br/>
-글, 영상 들에 대한 모음입니다.
+글, 영상 들에 대한 모음
 
 
 ## 경험
@@ -17,9 +17,10 @@
 * [openSSL](https://coolspeed.wordpress.com/2015/02/16/unseeable_comrade_in_arms/)(한글/글)
 
 
-## 아키텍쳐
+## 아키텍쳐 
 * [클린 아키텍처 애매한 부분 정해 드립니다](https://www.youtube.com/watch?v=g6Tg6_qpIVc)(한글/영상)
 * [DDD 설명](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)(영문/글)
+* [성급한 추상화에 관하여](https://365kim.tistory.com/77)(한글/글)
 
 ## 데이터베이스
 * [MVCC(Multi Version Concurrency Control) 알아보기](https://medium.com/monday-9-pm/mvcc-multi-version-concurrency-control-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-e4102cd97e59)(한글/글)
