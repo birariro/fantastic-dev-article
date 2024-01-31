@@ -15,7 +15,7 @@
 * [Mock 의 탄생 스토리](http://www.mockobjects.com/2009/09/brief-history-of-mock-objects.html)(영문/글)
 * [JUnit의 테스트 메소드는 왜 public이어야 할까요?](https://groups.google.com/g/ksug/c/xpJpy8SCrEE?pli=1)(한글/글)
 * [openSSL](https://coolspeed.wordpress.com/2015/02/16/unseeable_comrade_in_arms/)(한글/글)
-
+* [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/#more)(한글/글)
 
 ## 아키텍쳐 
 * [클린 아키텍처 애매한 부분 정해 드립니다](https://www.youtube.com/watch?v=g6Tg6_qpIVc)(한글/영상)
@@ -32,8 +32,10 @@
 * [소프트웨어 엔지니어가 알아야 할 로그에 대한 모든 것](https://medium.com/rate-labs/소프트웨어-엔지니어가-알아야-할-로그에-대한-모든-것-11513af8b998)(한글/글)
 * [검색 엔진은 어떻게 작동하는가](https://xo.dev/articles/how-search-engine-works)(한글/글)
 
-## 에자일
-* [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/#more)(한글/글)
+## 문화
+* [더 이상 배우려 하지 않는 개발자 : Expert Beginner의 등장](https://medium.com/@jwyeom63/더-이상-배우려-하지-않는-개발자-expert-beginner의-등장-dd40c40aeedf)(한글/글)
+* [소프트웨어 집단의 부패:Expert Beginner의 유산](https://medium.com/@jwyeom63/소프트웨어-집단의-부패-expert-beginner의-유산-9d226b6ebde2)(한글/글)
+
 
 ## 테스트
 * [JpaRepository를 상속하지 않은 이유](https://www.youtube.com/watch?feature=shared&v=MMH_ht8pf8U)(한글/영상)
