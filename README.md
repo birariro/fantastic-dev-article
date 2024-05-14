@@ -39,6 +39,9 @@
 
 ## 테스트
 * [JpaRepository를 상속하지 않은 이유](https://www.youtube.com/watch?feature=shared&v=MMH_ht8pf8U)(한글/영상)
+* [TDD는 죽었는가?](https://jinson.tistory.com/271)(한글/글)
+* [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/)(한글/글)
+* [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/)(한글/글)
 
 ## 최적화
 * [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁](https://tech.kakaopay.com/post/spring-batch-performance/)(한글/글)
