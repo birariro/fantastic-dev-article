@@ -1,9 +1,6 @@
 # fantastic-dev-article
 
-깨달음을 얻거나 감동을 했거나 <br/>
-소름이 돋거나 눈물이 났던  <br/>
-글, 영상 들에 대한 모음
-
+값진 개발 관련 게시글 모음
 
 ## 경험
 * [CTO가 커리어를 걸고 비트 레벨까지 내려가서 DB를 해킹했던 이야기](https://tech.devsisters.com/posts/bit-level-database-hacking/)(한글/글)
@@ -42,7 +39,11 @@
 * [TDD는 죽었는가?](https://jinson.tistory.com/271)(한글/글)
 * [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/)(한글/글)
 * [개발자가 테스트를 보는 세 가지 관점](https://yozm.wishket.com/magazine/detail/2068/)(한글/글)
+* [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)(영문/글), [Mocks Aren't Stubs](https://jaime-note.tistory.com/330)(한글/글)
 
 ## 최적화
 * [Spring Batch 애플리케이션 성능 향상을 위한 주요 팁](https://tech.kakaopay.com/post/spring-batch-performance/)(한글/글)
-  
+
+## 추천 블로그
+* [시스탬 설계](https://medium.com/@ishwarya1011.hidkimath)
+
